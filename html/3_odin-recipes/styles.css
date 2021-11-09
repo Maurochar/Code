@@ -1,0 +1,24 @@
+div{
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    border: 5px solid #818180d5;
+    padding: 10px;
+}
+a{
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    border-style: double;
+    color: darkolivegreen;
+}
+img{
+    border-color: #FFFFFF80;
+    border-style: outset;
+}
+li,ul{
+    color: blue;
+}
+#divindex{
+    background-color:violet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
