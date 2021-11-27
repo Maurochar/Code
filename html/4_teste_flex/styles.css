@@ -1,0 +1,20 @@
+.container{
+    background-color: burlywood;
+    height: 500px;
+    padding: 16px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.item{
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    border: 2px solid rgb(51, 49, 49);
+    
+    
+}
